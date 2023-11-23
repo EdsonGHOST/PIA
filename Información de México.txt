@@ -1,0 +1,32 @@
+{
+  "updated": 1700712246956,
+  "country": "Mexico",
+  "countryInfo": {
+    "_id": 484,
+    "iso2": "MX",
+    "iso3": "MEX",
+    "lat": 23,
+    "long": -102,
+    "flag": "https://disease.sh/assets/img/flags/mx.png"
+  },
+  "cases": 7649199,
+  "todayCases": 0,
+  "deaths": 334472,
+  "todayDeaths": 0,
+  "recovered": 6899865,
+  "todayRecovered": 0,
+  "active": 414862,
+  "critical": 0,
+  "casesPerOneMillion": 58141,
+  "deathsPerOneMillion": 2542,
+  "tests": 20013810,
+  "testsPerOneMillion": 152124,
+  "population": 131562772,
+  "continent": "North America",
+  "oneCasePerPeople": 17,
+  "oneDeathPerPeople": 393,
+  "oneTestPerPeople": 7,
+  "activePerOneMillion": 3153.34,
+  "recoveredPerOneMillion": 52445.42,
+  "criticalPerOneMillion": 0
+}
